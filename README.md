@@ -2,7 +2,7 @@
 
 Welcome to the Meals App, a Flutter project that showcases state management, screen navigation, and animations for managing and discovering delicious meals.
 
-![App Screenshot]()
+![App Screenshot](Screenshots/Screenshot 2023-10-06 201432.png)
 
 ## Table of Contents
 - [Features](#features)
